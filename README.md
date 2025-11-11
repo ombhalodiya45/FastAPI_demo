@@ -19,7 +19,6 @@ This project demonstrates how to build a production-ready REST API with clean ar
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/ombhalodiya45/FastAPI_demo.git
 cd <file name>
 
