@@ -17,10 +17,10 @@ This project demonstrates how to build a production-ready REST API with clean ar
 ---
 
 ## ⚙️ Installation & Setup
-
+```bash
 ### 1️⃣ Clone the Repository
 git clone https://github.com/ombhalodiya45/FastAPI_demo.git
-cd <file name>
+cd fastAPI_demo
 
 2️⃣ Create a Virtual Environment
 python -m venv venv
